@@ -131,3 +131,17 @@ wget
 xorg-server
 xorg-apps
 xorg-xinit
+
+
+adobe-source-sans-fonts
+awesome-terminal-fonts
+noto-fonts
+ttf-bitstream-vera
+ttf-dejavu
+ttf-droid
+ttf-hack
+ttf-inconsolata
+ttf-liberation
+ttf-roboto
+ttf-roboto-mono
+ttf-ubuntu-font-family
