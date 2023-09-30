@@ -47,8 +47,8 @@ echo
 
 	# setting of the general parameters
 	archisoRequiredVersion="archiso 72-1"
-	buildFolder=$HOME"/payraos-build"
-	outFolder=$HOME"/PayraOS-Out"
+	buildFolder=$HOME"/Desktop/payraos-build"
+	outFolder=$HOME"/Desktop/PayraOS-Out"
 	archisoVersion=$(sudo pacman -Q archiso)
 
 	echo "################################################################## "
