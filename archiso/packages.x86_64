@@ -3,7 +3,7 @@
 alsa-utils
 amd-ucode
 arch-install-scripts
-archinstall
+# archinstall
 b43-fwcutter
 base
 bind
